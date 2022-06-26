@@ -92,6 +92,12 @@
 
 <a href="https://github.com/CodeMaster7000/github-readme-activity-graph"><img alt="CodeMaster7000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CodeMaster7000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+</p>
+ 
+![snake gif](https://github.com/CodeMaster7000/CodeMaster7000/blob/output/github-contribution-grid-snake.gif)
+ 
+</div>
+
 ### Dose of Inspiration!
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -110,9 +116,3 @@
 <div align="center">
   
 <sup>You are visitor number:</sup><br />![Visitor Count](https://profile-counter.glitch.me/CodeMaster7000/count.svg)
-  
-</p>
- 
-![snake gif](https://github.com/CodeMaster7000/CodeMaster7000/blob/output/github-contribution-grid-snake.gif)
- 
-</div>
