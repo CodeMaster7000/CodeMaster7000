@@ -18,7 +18,7 @@
 - 💬 Ask me about turtle, tkinter or pygame. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I look for the best opportunity of developing and I would be happy to help those who need support.
+- ⚡ Fun fact: I look for the best opportunity of developing and I would be happy to help those who need support (I am generally active multiple times in a week). I am also in the top 2% of CSS developers worldwide (data retrieved from Codersrank)!
 
 ### Profile Badges
 
