@@ -38,7 +38,9 @@
 
 - 📝 Note: [SmashedFrenzy16](https://github.com/SmashedFrenzy16) and I will begin developing Blender addons soon. He has already started the project and I will resume collaborating with him in the near future. Stay tuned!
 
-### Languages and Tools:
+- In the near future, I will commence game development with Godot Engine.
+
+### Languages and Tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/readmeio/readmeio-ar21.svg"></code>
