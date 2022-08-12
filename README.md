@@ -30,8 +30,6 @@
 
 ### ⚡ Latest News from CodeMaster7000 and NetFruit Technologies ⚡
 
-- Hangman, Tetris, Tic Tac Toe, Space Invaders, General Knowledge Quiz, Ping Pong vs Computer, Flappy Bird, Sudoku and more have all been released! As usual, please check out these repositories, fork them and drop me a suggestion on what I should code next (I'd be delighted to take on the challenge!)
-
 - InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. We hope to impress you all! 
 
 - Thank you all so much for helping me reach 100 Github followers! I hope we can get to 200, 500 or even 1000 in the future!
@@ -40,6 +38,7 @@
 
 - In the near future, I will commence game development with Godot Engine.
 
+- As a company, NetFruit Technologies are streaming our Global Developers' Conference via YouTube.
 ### Languages and Tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
