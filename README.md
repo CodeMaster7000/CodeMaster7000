@@ -38,7 +38,7 @@
 
 - In the near future, I will commence game development with Godot Engine.
 
-- As a company, NetFruit Technologies are streaming our Global Developers' Conference via YouTube.
+- As a company, NetFruit Technologies are streaming our Global Developers' Conference via YouTube on 3rd September 2022. Don't forget to join us there!
 ### Languages and Tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
