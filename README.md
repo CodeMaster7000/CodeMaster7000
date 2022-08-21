@@ -18,7 +18,7 @@
 - 💬 Ask me about turtle, tkinter or pygame. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I have contributed to Github docs, and I am also in the top 2% of CSS developers worldwide! (data retrieved from CodersRank)
+- ⚡ Fun fact: I have contributed to Github Docs, and I am also in the top 2% of CSS developers worldwide! (data retrieved from CodersRank). By today, I have built a plethora of high-demanded projects for you all to learn from and enjoy!
 ### Profile Badges
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeMaster7000" alt="CodeMaster7000" /></a> </p>
