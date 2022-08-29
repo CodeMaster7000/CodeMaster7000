@@ -11,7 +11,7 @@
 
 ### About me (CodeMaster7000)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python,+JavaScript+and+C%2B%2B+Developer;Full-stack+developer;%3E2+years+of+programming+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python,+JS+and+C%2B%2B+Developer;Full-stack+developer;%3E2+years+of+programming+experience" alt="Typing SVG" /></a>
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on Python, HTML, CSS, JavaScript and R projects to help beginners and early intermediate programmers. I have also made a few Shell, C++ & TeX scripts.
