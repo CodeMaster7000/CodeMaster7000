@@ -38,6 +38,8 @@
 
 - Thank you all so much for helping me reach 100 Github followers! I hope we can get to 200, 500 or even 1000 in the future!
 
+- We have reached 1,000 commits on Github! This staggering milestone is not to be underestated, and I couldn't have done it without your support. Thanks everyone!
+
 - 📝 Note: [SmashedFrenzy16](https://github.com/SmashedFrenzy16) and I will begin developing Blender addons soon. He has already started the project and I will resume collaborating with him in the near future. Stay tuned!
 
 - In the near future, I will commence game development with Godot Engine.
