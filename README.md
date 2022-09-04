@@ -1,4 +1,4 @@
-## Hello everyone! Welcome to my personal Github profile! 👋
+## Hello everyone! CodeMaster7000 here. Welcome to my personal Github profile! 👋
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/CodeMaster7000)
 [![GitHub Followers](https://img.shields.io/github/followers/CodeMaster7000?label=Followers&style=social)](https://github.com/CodeMaster7000)
@@ -9,7 +9,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster7000&show_icons=true&locale=en&theme=tokyonight"                alt="CodeMaster7000"/>
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster7000&theme=tokyonight" alt="CodeMaster7000" />
 
-### About me (CodeMaster7000)
+### About me 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+Developer;Full-stack+developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
 
