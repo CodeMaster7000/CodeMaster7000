@@ -34,17 +34,16 @@
 
 ### ⚡ Latest News from CodeMaster7000 and NetFruit Technologies ⚡
 
+- As a company effort, [NFT GDC22](https://www.youtube.com/watch?v=BmXagNlk728) is out on YouTube. Stay tuned by subscribing to [NetFruit Technologies](https://www.youtube.com/channel/UC4kTIBbeVDYC1dQAOeNB7CA)!
+
 - InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. We hope to impress you all! 
 
 - Thank you all so much for helping me reach 100 Github followers! I hope we can get to 200, 500 or even 1000 in the future!
 
-- We have reached 1,000 commits on Github! This staggering milestone is not to be underestated, and I couldn't have done it without your support. Thanks everyone!
-
-- 📝 Note: [SmashedFrenzy16](https://github.com/SmashedFrenzy16) and I will begin developing Blender addons soon. He has already started the project and I will resume collaborating with him in the near future. Stay tuned!
+- I have reached 1,000 commits on Github! This staggering milestone is not to be underestated, and I couldn't have done it without your support. Thanks everyone!
 
 - In the near future, I will commence game development with Godot Engine.
 
-- As a company, NetFruit Technologies are streaming our Global Developers' Conference via YouTube on 3rd September 2022. Don't forget to join us there!
 ### Languages and Tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -88,7 +87,6 @@
 - Follow me on Google+ at https://plus.google.com/CodeMaster7000
 - Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
-- Subscribe to my organisation's YouTube channel at https://www.youtube.com/channel/UC4kTIBbeVDYC1dQAOeNB7CA
 - Follow me and like my posts on Adobe Behance at https://behance.net/CodeMaster7000
 - Check out my Stack Overflow profile at https://stackoverflow.com/users/18455156/codemaster7000
 - Check out my blog, like my posts and comment on it at https://tripleaaapersonal.blogspot.com/
