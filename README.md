@@ -35,6 +35,7 @@
 ### ⚡ Latest News from CodeMaster7000 and NetFruit Technologies ⚡
 
 - As a company effort, [NFT GDC22](https://www.youtube.com/watch?v=BmXagNlk728) is out on YouTube. Stay tuned by subscribing to [NetFruit Technologies](https://www.youtube.com/channel/UC4kTIBbeVDYC1dQAOeNB7CA)!
+NOTE: NFT GDC22 days 2 and 3 are delayed for a few days. Please bear with us and look out for any updates.
 
 - InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. We hope to impress you all! 
 
