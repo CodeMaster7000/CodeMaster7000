@@ -34,7 +34,7 @@
 
 ### ⚡ Latest News from CodeMaster7000 and NetFruit Technologies ⚡
 
-- Due to Queen Elizabeth II's tragic death, the company has declared a holiday. We will be back to our normal work schedule at some point next week.
+- Due to Queen Elizabeth II's state funeral, NetFruit Technologies will be off work on Monday 19th September. Our thoughts are with the Royal Family at this tragic moment.
 
 - On a more positive note, [NFT GDC22](https://www.youtube.com/watch?v=BmXagNlk728) is out on YouTube. Stay tuned by subscribing to [NetFruit Technologies](https://www.youtube.com/channel/UC4kTIBbeVDYC1dQAOeNB7CA)!
 
