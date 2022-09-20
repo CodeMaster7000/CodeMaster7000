@@ -34,17 +34,15 @@
 
 ### ⚡ Latest News from CodeMaster7000 and NetFruit Technologies ⚡
 
-- Due to Queen Elizabeth II's state funeral, NetFruit Technologies will be off work on Monday 19th September. Our thoughts are with the Royal Family at this tragic moment.
+- Donut Emulator 2.0 and PytoolSuite 3.0 are getting delayed until February 2023. This is due to more features being added,hence a more substantial release! n place of their autumn releases, they will get improvements on their current versions.
 
 - On a more positive note, [NFT GDC22](https://www.youtube.com/watch?v=BmXagNlk728) is out on YouTube. Stay tuned by subscribing to [NetFruit Technologies](https://www.youtube.com/channel/UC4kTIBbeVDYC1dQAOeNB7CA)!
 
-- InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. We hope to impress you all! 
+- InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16), [ShashCode2348](github.com/ShashCode2348) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. We hope to impress you all! 
 
-- Thank you all so much for helping me reach 100 Github followers! I hope we can get to 200, 500 or even 1000 in the future!
+- Thank you all so much for helping me reach 150 Github followers! I hope we can get to 200, 500 or even 1000 in the future!
 
-- I have reached 1,000 commits on Github! This staggering milestone is not to be underestated, and I couldn't have done it without your support. Thanks everyone!
-
-- In the near future, I will commence game development with Godot Engine.
+- In the not so distant future, I will commence game development with Godot Engine.
 
 ### Languages and Tools: 
 
