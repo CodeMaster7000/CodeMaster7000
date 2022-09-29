@@ -109,7 +109,7 @@
 
 ### Developers' Quotes
 
-[![Readme Stats]]
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
 <sup>Best viewed with:</sup><br />![Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
 
