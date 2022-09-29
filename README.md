@@ -42,6 +42,11 @@
 
 - In the not so distant future, I will commence game development with Godot Engine.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
+  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
+</div>
+
 ### Languages and Tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -104,11 +109,7 @@
 
 ### Developers' Quotes
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<div align="center">
-
-![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
+[![Readme Stats]]
   
 <sup>Best viewed with:</sup><br />![Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
 
