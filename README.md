@@ -22,8 +22,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have contributed to Github Docs, and I am also in the top 2% of CSS developers worldwide! (data retrieved from CodersRank). By today, I have built a plethora of high-demanded projects for you all to learn from and enjoy!
 
-<p align="center">
-  <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
+<img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 
 ### Profile Badges
 
