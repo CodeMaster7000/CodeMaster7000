@@ -42,7 +42,6 @@
 
 - In the not so distant future, I will commence game development with Godot Engine.
 
-<div align="center">
   <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
   <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
 </div>
