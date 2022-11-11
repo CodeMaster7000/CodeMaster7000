@@ -8,6 +8,8 @@
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster7000&show_icons=true&locale=en&theme=tokyonight"                alt="CodeMaster7000"/>
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster7000&theme=tokyonight" alt="CodeMaster7000" />
+	
+Special: Please follow @CodeMaster7000 on Github! Together we can grow to be a huge programming community!
 
 ### About me @CodeMaster7000
 
