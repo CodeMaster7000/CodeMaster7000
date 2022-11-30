@@ -84,17 +84,16 @@
 	</a>
 	
 ### Where can you follow me?
+
 - Follow me on Github at https://github.com/CodeMaster7000
-- Follow me on my alternative Github account at https://github.com/CodeMaster7000Alt
-- Send me a friend request, follow me and message me on Chess.com at https://www.chess.com/member/code-master1234
-- Check out my Chess.com blog at https://chess.com/blog/CodeMaster7000
-- Follow me on Google+ at https://plus.google.com/CodeMaster7000
-- Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
-- Follow me and like my posts on Adobe Behance at https://behance.net/CodeMaster7000
-- Check out my Stack Overflow profile at https://stackoverflow.com/users/18455156/codemaster7000
-- Check out my blog, like my posts and comment on it at https://tripleaaapersonal.blogspot.com/
+- Follow me on Google+ at https://plus.google.com/CodeMaster7000
+- Follow me on my alternative Github account at https://github.com/CodeMaster7000Alt
 - Check out my Github open-source webpage at https://codemaster7000.github.io
+- Send me a game request and message me on Chess.com at https://www.chess.com/member/code-master1234
+- Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
+- Follow me and like my posts on Adobe Behance at https://behance.net/CodeMaster7000
+- Check out my blog, like my posts and comment on it at https://tripleaaapersonal.blogspot.com/
 - Check out my Google Developer's profile at https://developers.google.com/profile/u/CodeMaster7000
 - Check out my CodersRank profile at https://profile.codersrank.io/user/codemaster7000
 	
