@@ -40,7 +40,7 @@
 
 - InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16), [ShashCode2348](https://github.com/ShashCode2348) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. 
 
-- Thank you all so much for helping me reach 150 Github followers! I hope we can get to 200, 500 or even 1000 in the future!
+- Thank you all so much for helping me reach 200 Github followers! I hope we can get to 200, 500 or even 1000 in the future!
 
 - In the not so distant future, I will commence game development with Godot Engine.
 
