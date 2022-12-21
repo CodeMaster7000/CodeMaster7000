@@ -36,7 +36,7 @@
 
 ### ⚡ Latest News from CodeMaster7000 and NetFruit Technologies ⚡
 
-- Donut Emulator 2.0 and PytoolSuite 3.0 are delayed until February 2023. This is due to more features being added, hence a more substantial release.
+- Donut Emulator 2.0 and PytoolSuite 3.0 are delayed up to late February 2023. This is due to more features being added, hence a more substantial release.
 
 - InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16), [ShashCode2348](https://github.com/ShashCode2348) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. 
 
