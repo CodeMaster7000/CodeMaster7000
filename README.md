@@ -16,13 +16,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+Developer;Full-stack+developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
-- 🔭 I am currently working on Python, HTML, CSS, JavaScript and R projects to help beginners and early intermediate programmers. I have also made a few Shell, C++ & TeX scripts.
-- 🌱 I am currently learning HTML, CSS, JavaScript and C++.
-- 🤔 I am looking for help with READMEs and licenses.
-- 💬 Ask me about turtle, tkinter or pygame. I might be able to help you.
+- 🔭 I am currently working on Python, HTML, SCSS/CSS and JavaScript projects to help beginners and early intermediate programmers. I have also made a few R, Shell, C++ & TeX scripts.
+- 🌱 I am currently learning web development and C++.
+- 🤔 I am looking for help with C++.
+- 💬 Ask me about ReadMEs, turtle, tkinter or pygame. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I have contributed to Github Docs, and I am also in the top 2% of CSS developers worldwide! (data retrieved from CodersRank). By today, I have built a plethora of high-demanded projects for you all to learn from and enjoy!
+- ⚡ Fun fact: I am in the top 2% of CSS developers worldwide! (Data retrieved from CodersRank). By today, I have built a plethora of highly-demanded projects for you all to learn from and enjoy!
 
 <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 
