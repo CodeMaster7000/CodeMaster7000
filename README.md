@@ -5,12 +5,6 @@
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
 
-</div> 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
-</div>
-
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster7000&show_icons=true&locale=en&theme=tokyonight"                alt="CodeMaster7000"/>
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster7000&theme=tokyonight" alt="CodeMaster7000" />
@@ -20,6 +14,12 @@
 ### About me @CodeMaster7000
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+Developer;Full-stack+developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
+
+</div> 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
+</div>
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on Python, HTML, SCSS/CSS and JavaScript projects to help beginners and early intermediate programmers. I have also made a few R, Shell, C++ & TeX scripts.
