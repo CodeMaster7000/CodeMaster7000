@@ -5,6 +5,12 @@
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
 
+</div> 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
+</div>
+
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster7000&show_icons=true&locale=en&theme=tokyonight"                alt="CodeMaster7000"/>
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster7000&theme=tokyonight" alt="CodeMaster7000" />
@@ -41,10 +47,6 @@
 - InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16), [ShashCode2348](https://github.com/ShashCode2348) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. 
 
 - Thank you all so much for helping me reach 200 Github followers! I hope we can get to 500 or even 1000 in the future!
-
-<img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
-<img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
-</div>
 
 ### Languages and Tools
 
