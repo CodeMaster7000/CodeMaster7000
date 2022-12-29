@@ -1,5 +1,9 @@
 ## Hello everyone! Welcome to my personal Github profile! 👋
 
+<div align="center">
+   <img src="./Assets/hello-world.gif" />
+</div>
+
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/CodeMaster7000)
 [![GitHub Followers](https://img.shields.io/github/followers/CodeMaster7000?label=Followers&style=social)](https://github.com/CodeMaster7000)
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
