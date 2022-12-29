@@ -40,7 +40,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeMaster7000" alt="CodeMaster7000" /></a> </p>
 
-### Technology joke to keep you entertained!
+### Technology joke to keep you entertained! <img src="./Assets/dance.gif" />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
