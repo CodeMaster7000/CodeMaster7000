@@ -34,7 +34,9 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am in the top 2% of CSS developers worldwide! (Data retrieved from CodersRank). By today, I have built a plethora of highly-demanded projects for you all to learn from and enjoy!
 
-<img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
+<p align="center">
+<img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
+</p>
 
 ### Profile Badges
 
