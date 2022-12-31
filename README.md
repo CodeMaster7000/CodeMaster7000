@@ -3,6 +3,7 @@
 <div align="center">
    <img src="./Assets/hello-world.gif" />
 </div>
+</p>
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/CodeMaster7000)
 [![GitHub Followers](https://img.shields.io/github/followers/CodeMaster7000?label=Followers&style=social)](https://github.com/CodeMaster7000)
