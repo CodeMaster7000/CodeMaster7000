@@ -43,7 +43,6 @@
 ### Technology joke to keep you entertained! 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<img src="./Assets/dance.gif" />
 
 ### ⚡ Latest News from CodeMaster7000 and NetFruit Technologies ⚡
 
