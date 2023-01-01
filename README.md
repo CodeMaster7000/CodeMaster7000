@@ -82,7 +82,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
-<p>
+<img align="right" alt="Biell-gif" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif">
+</p>
 
 <h3>Most Used Languages (by number of commits)</h3>
 <p align="center">
