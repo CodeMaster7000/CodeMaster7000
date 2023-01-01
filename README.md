@@ -1,19 +1,10 @@
 ## Hello everyone! Welcome to my personal Github profile! 👋
 
-<div align="center">
-   <img src="./Assets/hello-world.gif" />
-</div>
-</p>
-
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/CodeMaster7000)
 [![GitHub Followers](https://img.shields.io/github/followers/CodeMaster7000?label=Followers&style=social)](https://github.com/CodeMaster7000)
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
 
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster7000&show_icons=true&locale=en&theme=tokyonight"                alt="CodeMaster7000"/>
-<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster7000&theme=tokyonight" alt="CodeMaster7000" />
-	
 ### Special: Please subscribe to @CodeMaster7000 on YouTube! Together we can grow to be a huge programming community!
 
 ### About me @CodeMaster7000
@@ -83,9 +74,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
 
-<img align="right" alt="Biell-gif" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif">
-</p>
-
 <h3>Most Used Languages (by number of commits)</h3>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/CodeMaster7000#Tech%20Skills">
@@ -108,8 +96,12 @@
 	
 ### Contributions
 
+<p align="center">
+  <img height="150" width="150" src="./Assets/leftwing.webp">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CodeMaster7000&theme=dark&background=000000"/>
+  <img height="150" width="150" src="./Assets/rightwing.webp">
 </p>
- 
+
 ![snake gif](https://github.com/CodeMaster7000/CodeMaster7000/blob/output/github-contribution-grid-snake.gif)
  
 </div>
