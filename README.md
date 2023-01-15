@@ -21,7 +21,7 @@
 - 🔭 I am currently working on Python, HTML, SCSS/CSS and JavaScript projects to help beginners and early intermediate programmers. I have also made a few R, Shell & TeX scripts.
 - 🌱 I am currently learning C++ and ethical hacking.
 - 🤔 I am looking for help with game engine development and C++.
-- 💬 Ask me about ReadMEs, turtle, tkinter or pygame. I might be able to help you.
+- 💬 Ask me about ReadMEs, Python or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am in the top 2% of CSS developers worldwide! (Data retrieved from CodersRank). By today, I have built a plethora of highly-demanded projects for you all to learn from and enjoy!
