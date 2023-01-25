@@ -38,7 +38,11 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### ⚡ Latest News from CodeMaster7000 and NetFruit Technologies ⚡
+### ⚡ Latest News from CodeMaster7000, NetFruit Technologies and GitHub ⚡
+
+- NEW & TRENDING: GitHub is currently celebrating reaching 100 million developers! The goal was to reach this figure by 2025, but we have blown right past that number.
+
+<img src="./Assets/githubusersgraph.webp" alt="Users Graph" width="600">
 
 - Donut Emulator 2.0 and PytoolSuite 3.0 are delayed up to late February 2023. This is due to more features being added, hence a more substantial release.
 
