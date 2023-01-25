@@ -40,7 +40,7 @@
 
 ### ⚡ Latest News from CodeMaster7000, NetFruit Technologies and GitHub ⚡
 
-- NEW & TRENDING: GitHub is currently celebrating reaching 100 million developers! The goal was to reach this figure by 2025, but we have blown right past that number.
+- NEW & TRENDING: GitHub is currently celebrating 100 million developers! The initial goal was to reach this figure by 2025, but we have blown right past that number!
 
 <img src="./Assets/githubusersgraph.webp" alt="Users Graph" width="600">
 
