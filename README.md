@@ -38,7 +38,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### ⚡ Latest News from CodeMaster7000, NetFruit Technologies and GitHub ⚡
+### ⚡ Latest News from CodeMaster7000, NetFruit Technologies and the GitHub Community ⚡
 
 - NEW & TRENDING: GitHub is currently celebrating 100 million developers! The initial goal was to reach this figure by 2025, but we have blown right past that number!
 
