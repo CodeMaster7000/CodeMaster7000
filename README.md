@@ -44,11 +44,11 @@
 
 <img src="./Assets/githubusersgraph.webp" alt="Users Graph" width="600">
 
-- Donut Emulator 2.0 and PytoolSuite 3.0 are delayed up to late February 2023. This is due to more features being added, hence a more substantial release.
+- NEW: [PytoolSuite 3.0](https://github.com/NetFruit-Technologies/pytoolsuite) has been released! This is our biggest update yet, with so many new features. Please check it out!
+
+- Donut Emulator has been postponed until late February 2023. Keep an eye out for future updates!
 
 - InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16), [ShashCode2348](https://github.com/ShashCode2348) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. 
-
-- Thank you all so much for helping me reach 200 Github followers! I hope we can get to 500 or even 1000 in the future!
 
 ### Languages and Tools
 
