@@ -40,10 +40,6 @@
 
 ### ⚡ Latest News from CodeMaster7000, NetFruit Technologies and the GitHub Community ⚡
 
-- NEW & TRENDING: GitHub is currently celebrating 100 million developers! The initial goal was to reach this figure by 2025, but we have blown right past that number!
-
-<img src="./Assets/githubusersgraph.webp" alt="Users Graph" width="600">
-
 - NEW: [PytoolSuite 3.0](https://github.com/NetFruit-Technologies/pytoolsuite) has been released! This is our biggest update yet, with so many new features. Please check it out!
 
 - Donut Emulator has been postponed until late February 2023. Keep an eye out for future updates!
