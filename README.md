@@ -11,11 +11,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;2+years+of+programming+experience" alt="Typing SVG" /></a>
 
-</div> 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on Python, HTML, SCSS/CSS and JavaScript projects to help beginners and early intermediate programmers. I have also made a few R, Shell & TeX scripts.
