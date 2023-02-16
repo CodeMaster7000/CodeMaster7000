@@ -24,10 +24,6 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am in the top 2% of CSS developers worldwide! (Data retrieved from CodersRank). By today, I have built a plethora of highly-demanded projects for you all to learn from and enjoy!
 
-<p align="center">
-<img src="./Assets/Coder.gif" alt="Coder GIF" width="500">
-</p>
-
 ### Profile Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeMaster7000" alt="CodeMaster7000" /></a> </p>
