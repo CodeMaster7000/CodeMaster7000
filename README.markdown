@@ -32,13 +32,9 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### ⚡ Latest News from CodeMaster7000, NetFruit Technologies and the GitHub Community ⚡
+### ⚡ Latest News from CodeMaster7000, TechDreams Innovations and the GitHub Community ⚡
 
-- NEW: [PytoolSuite 3.0](https://github.com/NetFruit-Technologies/pytoolsuite) has been released! This is our biggest update yet, with so many new features. Please check it out!
-
-- Donut Emulator has been postponed until early March 2023. Keep an eye out for future updates!
-
-- InvenMania (an inventory-based fantasy game) is under development! [ATSqueak](https://github.com/ATSqueak), [SmashedFrenzy16](https://github.com/SmashedFrenzy16), [ShashCode2348](https://github.com/ShashCode2348) and I will be contributing to this. Please visit [InvenMania](https://github.com/NetFruit-Technologies/InvenMania) to watch the game being developed in phases. 
+No breaking news. You're all up to date!
 
 ### Languages and Tools
 
