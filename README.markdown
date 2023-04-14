@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
 
-### Special: Please subscribe to @CodeMaster7000 on YouTube! Together we can grow to be a huge programming community!
+### Breaking News: PykitDreams V1.0 has been officially released! Click [here](https://github.com/TechDreams-Innovations/PykitDreams) to check it out!
 
 ### About me @CodeMaster7000
 
