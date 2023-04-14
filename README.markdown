@@ -34,7 +34,7 @@
 
 ### ⚡ Latest News from CodeMaster7000, TechDreams Innovations and the GitHub Community ⚡
 
-- PykitDreams development is now well and truly underway! Visit our [open-source repo](https://github.com/TechDreams-Innovations/PykitDreams) for more.
+You're all caught up!
 
 ### Languages and Tools
 
