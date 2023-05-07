@@ -5,8 +5,6 @@
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
 
-### Breaking News: PykitDreams V1.0 has been officially released! Click [here](https://github.com/TechDreams-Innovations/PykitDreams) to check it out!
-
 ### About me @CodeMaster7000
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;2-3+years+of+programming+experience" alt="Typing SVG" /></a>
