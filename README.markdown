@@ -5,6 +5,10 @@
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
 
+### Breaking News
+
+Face Detector 1.0 has now been released on the TechDreams Innovations Github. Feel free to check it out!
+
 ### About me @CodeMaster7000
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;2-3+years+of+programming+experience" alt="Typing SVG" /></a>
@@ -20,7 +24,7 @@
 - 💬 Ask me about ReadMEs, Python or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am in the top 2% of CSS developers worldwide! (Data retrieved from CodersRank). By today, I have built a plethora of highly-demanded projects for you all to learn from and enjoy!
+- ⚡ Fun fact: I am in the top 2% of CSS developers worldwide! (Data retrieved from CodersRank).
 
 ### Profile Trophies
 
@@ -29,10 +33,6 @@
 ### Technology joke to keep you entertained! 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-### ⚡ Latest News from CodeMaster7000, TechDreams Innovations and the GitHub Community ⚡
-
-You're all caught up!
 
 ### Languages and Tools
 
