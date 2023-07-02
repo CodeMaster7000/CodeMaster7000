@@ -9,9 +9,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;2-3+years+of+programming+experience" alt="Typing SVG" /></a>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
+![image](https://github.com/CodeMaster7000/CodeMaster7000/assets/95772109/26eabf8a-d555-4fc3-ae15-a5061e295d7f)
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on Python, HTML, SCSS/CSS and JavaScript projects to help beginners and early intermediate programmers. I have also made a few R, Shell & TeX scripts.
