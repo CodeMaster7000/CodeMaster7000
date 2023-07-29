@@ -82,10 +82,6 @@
   <img height="150" width="150" src="./Assets/rightwing.webp">
 </p>
 
-![snake gif](https://github.com/CodeMaster7000/CodeMaster7000/blob/output/github-contribution-grid-snake.gif)
- 
-</div>
-
 ### Developers' Quotes
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
