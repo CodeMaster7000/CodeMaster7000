@@ -5,6 +5,14 @@
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
 
+### Contributions
+
+<p align="center">
+  <img height="150" width="150" src="./Assets/leftwing.webp">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CodeMaster7000&theme=dark&background=000000"/>
+  <img height="150" width="150" src="./Assets/rightwing.webp">
+</p>
+
 ### About me @CodeMaster7000
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;2-3+years+of+programming+experience" alt="Typing SVG" /></a>
@@ -22,9 +30,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeMaster7000" alt="CodeMaster7000" /></a> </p>
 
-### Technology joke to keep you entertained! 
+### Technology joke 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### Developers' Quotes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Languages and Tools
 
@@ -73,18 +85,6 @@
 - Check out my blog, like my posts and comment on it at https://tripleaaapersonal.blogspot.com/
 - Check out my Google Developer's profile at https://developers.google.com/profile/u/CodeMaster7000
 - Check out my CodersRank profile at https://profile.codersrank.io/user/codemaster7000
-	
-### Contributions
-
-<p align="center">
-  <img height="150" width="150" src="./Assets/leftwing.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CodeMaster7000&theme=dark&background=000000"/>
-  <img height="150" width="150" src="./Assets/rightwing.webp">
-</p>
-
-### Developers' Quotes
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
 <div align="center">
 
