@@ -4,6 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/CodeMaster7000?label=Followers&style=social)](https://github.com/CodeMaster7000)
 ![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
+[![Gmail Badge](https://img.shields.io/badge/-CodeMaster7K@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:CodeMaster7K@gmail.com)](mailto:CodeMaster7K@gmail.com)   
 
 ### Contributions
 
