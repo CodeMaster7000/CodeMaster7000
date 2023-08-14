@@ -6,6 +6,8 @@
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
 [![Gmail Badge](https://img.shields.io/badge/-CodeMaster7K@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:CodeMaster7K@gmail.com)](mailto:CodeMaster7K@gmail.com)   
 
+### Breaking News: Thank you all for helping me reach 350 followers! 
+
 ### Contributions
 
 <p align="center">
@@ -22,7 +24,7 @@
 - 🔭 I am currently working on Python, HTML, SCSS/CSS and JavaScript projects to help beginners and early intermediate programmers. I have also made a few R, Shell & TeX scripts.
 - 🌱 I am currently learning C++ and ethical hacking.
 - 🤔 I am looking for help with game engine development and C++.
-- 💬 Ask me about ReadMEs, Python or JavaScript. I might be able to help you.
+- 💬 Ask me about APIs, Python or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am in the top 2% of CSS developers worldwide! (Data retrieved from CodersRank).
