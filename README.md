@@ -21,9 +21,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;2-3+years+of+programming+experience" alt="Typing SVG" /></a>
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
-- 🔭 I am currently working on Python, HTML, SCSS/CSS and JavaScript projects to help beginners and early intermediate programmers. I have also made a few R, Shell & TeX scripts.
-- 🌱 I am currently learning C++ and ethical hacking.
-- 🤔 I am looking for help with game engine development and C++.
+- 🔭 I am currently working on Python, HTML, SCSS/CSS and JavaScript projects to help beginner and intermediate-level programmers. I have also written PowerShell, R, UNIX, and TeX scripts.
+- 🌱 I am currently learning ethical hacking and looking into IoT.
+- 🤔 I am looking for help with blockchain technologies and OS development. 
 - 💬 Ask me about APIs, Python or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
 - 😄 Pronouns: He
