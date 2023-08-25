@@ -107,6 +107,4 @@
   
 <sup>You are visitor number:</sup><br />![Visitor Count](https://profile-counter.glitch.me/CodeMaster7000/count.svg)
 
-![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-    
-</div>
+[![](https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif)](#)
