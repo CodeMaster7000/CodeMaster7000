@@ -95,7 +95,9 @@
 - Check out my blog, like my posts and comment on it at https://tripleaaapersonal.blogspot.com/
 - Check out my Google Developer's profile at https://developers.google.com/profile/u/CodeMaster7000
 - Check out my CodersRank profile at https://profile.codersrank.io/user/codemaster7000
-  
+
+[![](https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif)](#)
+
 <div align="center">
 
 <sup>Best viewed with:</sup><br />![Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
@@ -106,5 +108,3 @@
 <div align="center">
   
 <sup>You are visitor number:</sup><br />![Visitor Count](https://profile-counter.glitch.me/CodeMaster7000/count.svg)
-
-[![](https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif)](#)
