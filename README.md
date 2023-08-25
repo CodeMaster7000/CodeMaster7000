@@ -96,6 +96,8 @@
 - Check out my Google Developer's profile at https://developers.google.com/profile/u/CodeMaster7000
 - Check out my CodersRank profile at https://profile.codersrank.io/user/codemaster7000
 
+<div align="center">
+	
 [![](https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif)](#)
 
 <div align="center">
