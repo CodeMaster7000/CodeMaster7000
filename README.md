@@ -16,6 +16,10 @@
   <img height="150" width="150" src="./Assets/rightwing.webp">
 </p>
 
+### ⚡ New and Trending ⚡
+
+I am doing Advent of Code 2023 and uploading my solutions [here](https://github.com/CodeMaster7000/Advent_of_Code_2023_Solutions). Follow along with me on my journey and consider taking part if you haven't already.
+
 ### About me @CodeMaster7000
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
