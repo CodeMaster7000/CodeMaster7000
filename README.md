@@ -18,7 +18,7 @@
 
 ### ⚡ New and Trending ⚡
 
-GitPack v1.0 has been officially released as of Decrmber 31st, 2023. Check out the plethora of tools provided [here](https://github.com/TechDreams-Innovations/Gitpack-v1.0)!
+GitPack v1.0 has been officially released as of Decrmber 31st, 2023. Check out the plethora of tools offered [here](https://github.com/TechDreams-Innovations/Gitpack-v1.0)!
 
 ### About me @CodeMaster7000
 
