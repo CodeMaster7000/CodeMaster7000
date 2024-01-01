@@ -18,7 +18,7 @@
 
 ### ⚡ New and Trending ⚡
 
-I am doing Advent of Code 2023 and uploading my solutions [here](https://github.com/CodeMaster7000/Advent_of_Code_2023_Solutions). Follow along with me on my journey and consider taking part if you haven't already.
+GitPack v1.0 has been officially released as of Decrmber 31st, 2023. Check out the plethora of tools provided [here](https://github.com/TechDreams-Innovations/Gitpack-v1.0)!
 
 ### About me @CodeMaster7000
 
