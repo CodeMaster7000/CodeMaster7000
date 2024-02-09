@@ -18,7 +18,7 @@
 
 ### ⚡ New and Trending ⚡
 
-GitPack v1.0 has been officially released as of Decrmber 31st, 2023. Check out the plethora of tools offered [here](https://github.com/TechDreams-Innovations/Gitpack-v1.0)!
+HypeEm 1.0 is under development as of February 2024. Check out the plethora of tools currently offered [here](https://github.com/TechDreams-Innovations/HypeEm)!
 
 ### About me @CodeMaster7000
 
