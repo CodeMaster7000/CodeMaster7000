@@ -18,7 +18,8 @@
 
 ### ⚡ New and Trending ⚡
 
-HypeEm 1.0 is under development as of February 2024. Check out the plethora of tools currently offered [here](https://github.com/TechDreams-Innovations/HypeEm)!
+- HypeEm 1.0 was released on February 16th 2024! Check out the plethora of tools offered [here](https://github.com/TechDreams-Innovations/HypeEm).
+- PykitDreams 2.0 is under development and will be released in April 2024. Keep up to date with the latest development status [here](https://github.com/TechDreams-Innovations/PykitDreams).
 
 ### About me @CodeMaster7000
 
