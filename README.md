@@ -93,7 +93,7 @@
 - Follow me on Google+ at https://plus.google.com/CodeMaster7000
 - Follow me on my alternative Github account at https://github.com/CodeMaster7000Alt
 - Check out my Github open-source webpage at https://codemaster7000.github.io
-- Send me a game request and message me on Chess.com at https://www.chess.com/member/code-master1234
+- Send me a game request and message me on Lichess at https://lichess.org/@/AdvaitAbh7000
 - Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
 - Follow me and like my posts on Adobe Behance at https://behance.net/CodeMaster7000
 - Check out my blog, like my posts and comment on it at https://tripleaaapersonal.blogspot.com/
