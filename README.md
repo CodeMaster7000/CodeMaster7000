@@ -31,7 +31,7 @@
 - 💬 Ask me about APIs, Python, C++ or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am in the top 2% of CSS developers worldwide! (Data retrieved from CodersRank).
+- ⚡ Check out my Reading List in progress on [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e)!
 
 ### Profile Trophies
 
