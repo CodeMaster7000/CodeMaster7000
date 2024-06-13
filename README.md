@@ -26,7 +26,7 @@
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on Python, HTML, SCSS/CSS, JavaScript and C# projects to help beginner and intermediate-level programmers.
-- 🌱 I am currently looking into IoT and Java.
+- 🌱 I am currently looking into ethical hacking.
 - 🤔 I am looking for help with blockchain technologies and OS development. 
 - 💬 Ask me about APIs, Python, C++ or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000), [Github (Alternative)](https://github.com/CodeMaster7000Alt), [Chess.com](https://chess.com/member/code-master1234) and [Google+](https://plus.google.com/+AdvaitAbhyankar)
