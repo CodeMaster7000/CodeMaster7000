@@ -19,7 +19,7 @@
 ### ⚡ New and Trending ⚡
 
 - PykitDreams 2.0: Under development and will be released in late summer 2024. Keep up to date with the latest development status [here](https://github.com/TechDreams-Innovations/PykitDreams).
-- Summer event : 3rd August 2024 between TechDreams Innovations and TouchScreen BlueTooth Machines.
+- Summer event: 3rd August 2024 between TechDreams Innovations and TouchScreen BlueTooth Machines.
 
 ### About me @CodeMaster7000
 
