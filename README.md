@@ -18,7 +18,8 @@
 
 ### ⚡ New and Trending ⚡
 
-- PykitDreams 2.0 is under development and will be released in late summer 2024. Keep up to date with the latest development status [here](https://github.com/TechDreams-Innovations/PykitDreams).
+- PykitDreams 2.0: Under development and will be released in late summer 2024. Keep up to date with the latest development status [here](https://github.com/TechDreams-Innovations/PykitDreams).
+- Summer event : 3rd August 2024 between TechDreams Innovations and TouchScreen BlueTooth Machines.
 
 ### About me @CodeMaster7000
 
@@ -31,7 +32,7 @@
 - 💬 Ask me about APIs, Python, C++ or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000) or [Github (Alternative)](https://github.com/CodeMaster7000Alt).
 - 😄 Pronouns: He/him
-- ⚡ Check out my Reading List in progress on [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e)!
+- ⚡ Check out my Reading List in progress at [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e)!
 
 ### Profile Trophies
 
