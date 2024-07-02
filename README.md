@@ -30,7 +30,7 @@
 - 🌱 I am currently researching ethical hacking.
 - 🤔 I am looking for help with blockchain technologies and OS development. 
 - 💬 Ask me about APIs, Python, C++ or JavaScript. I might be able to help you.
-- 📫 How to reach me: On [Github (Main)](https://github.com/CodeMaster7000) or [Github (Alternative)](https://github.com/CodeMaster7000Alt).
+- 📫 How to reach me: On [Github](https://github.com/CodeMaster7000).
 - 😄 Pronouns: He/him
 - ⚡ Check out my Reading List in progress at [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e)!
 
@@ -92,7 +92,6 @@
 - Follow me on Github at https://github.com/CodeMaster7000
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
 - Follow me on Google+ at https://plus.google.com/CodeMaster7000
-- Follow me on my alternative Github account at https://github.com/CodeMaster7000Alt
 - Check out my Github open-source webpage at https://codemaster7000.github.io
 - Send me a game request and message me on Lichess at https://lichess.org/@/AdvaitAbh7000
 - Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
