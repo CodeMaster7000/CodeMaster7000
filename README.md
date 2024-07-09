@@ -96,7 +96,6 @@
 - Send me a game request and message me on Lichess at https://lichess.org/@/AdvaitAbh7000
 - Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
 - Follow me and like my posts on Adobe Behance at https://behance.net/CodeMaster7000
-- Check out my blog, like my posts and comment on it at https://tripleaaapersonal.blogspot.com/
 - Check out my Google Developer's profile at https://developers.google.com/profile/u/CodeMaster7000
 - Check out my CodersRank profile at https://profile.codersrank.io/user/codemaster7000
 
