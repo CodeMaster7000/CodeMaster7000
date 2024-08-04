@@ -18,7 +18,7 @@
 
 ### ⚡ New and Trending ⚡
 
-- PykitDreams 2.0: Under development and will be released in August 2024. Keep up to date with the latest development status [here](https://github.com/TechDreams-Innovations/PykitDreams).
+- PykitDreams 2.0: Under development and will be released in late 2024. Keep up to date with the latest development status [here](https://github.com/TechDreams-Innovations/PykitDreams).
 
 ### About me @CodeMaster7000
 
