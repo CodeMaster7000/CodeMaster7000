@@ -16,9 +16,10 @@
   <img height="150" width="150" src="./Assets/rightwing.webp">
 </p>
 
-### ⚡ New and Trending ⚡
+### ⚡ New and Noteworthy ⚡
 
 - Thank you all for helping us reach 500 GitHub followers! A hearty acknowledgement message can be found [here](https://github.com/CodeMaster7000/Thank-you-for-500).
+- Happy Preptember, or Techtember, to all tech enthusiasts celebrating!
 
 ### About me @CodeMaster7000
 
