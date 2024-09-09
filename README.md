@@ -38,7 +38,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeMaster7000" alt="CodeMaster7000" /></a> </p>
 
-### Technology joke 
+### Daily Laugh
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
