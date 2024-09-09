@@ -18,8 +18,8 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-- Thank you all for helping us reach 500 GitHub followers! A hearty acknowledgement message can be found [here](https://github.com/CodeMaster7000/Thank-you-for-500).
-- Happy Preptember, or Techtember, to all tech enthusiasts celebrating!
+- Tune in to the Apple Event on 9th September 2024 at 17:00 GMT [here](https://www.apple.com/uk/apple-events/)!
+- Happy Preptember/Techtember to all tech enthusiasts celebrating!
 
 ### About me @CodeMaster7000
 
