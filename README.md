@@ -18,7 +18,6 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-- Tune in to the Apple Event on 9th September 2024 at 17:00 GMT [here](https://www.apple.com/uk/apple-events/)!
 - Happy Preptember/Techtember to all tech enthusiasts celebrating!
 
 ### About me @CodeMaster7000
