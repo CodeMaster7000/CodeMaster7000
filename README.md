@@ -18,7 +18,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-- Happy Preptember/Techtember to all tech enthusiasts celebrating!
+- Happy Hacktoberfest 2024 to all those taking part!
 
 ### About me @CodeMaster7000
 
