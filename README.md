@@ -33,13 +33,11 @@
 - 😄 Pronouns: He/him
 - ⚡ Check out my Reading List in progress at [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e)!
 
-### Profile Trophies
+### Achievements
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeMaster7000" alt="CodeMaster7000" /></a> </p>
 
-### Daily Laugh
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![An image of @CodeMaster7000's Holopin badges](https://holopin.me/codemaster7000)](https://holopin.io/@codemaster7000)
 
 ### Developers' Quotes
 
@@ -72,19 +70,13 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 
-### Software and tools:
+### Software
 
 <p>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
-
-<h3>Most Used Languages (by number of commits)</h3>
-<p align="center">
-	<a href="https://profile.codersrank.io/user/CodeMaster7000#Tech%20Skills">
-		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CodeMaster7000&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
-	</a>
 	
 ### Where can you follow me?
 
