@@ -18,7 +18,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-- Happy Hacktoberfest 2024 to all those taking part!
+You are all caught up!
 
 ### About me @CodeMaster7000
 
