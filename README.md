@@ -18,7 +18,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-You are all caught up!
+- [Advent of Code 2024](https://adventofcode.com/2024) 1st-25th December. Stay tuned for my solutions!
 
 ### About me @CodeMaster7000
 
