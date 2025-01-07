@@ -18,7 +18,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-- [Advent of Code](https://adventofcode.com/2024) 1st-25th December 2024: stay tuned for my solutions!
+You're all up to date! Stay tuned for updates.
 
 ### About me @CodeMaster7000
 
