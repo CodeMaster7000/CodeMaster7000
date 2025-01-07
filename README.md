@@ -8,14 +8,6 @@
 
 ![hello-world](https://github.com/CodeMaster7000/CodeMaster7000/assets/95772109/6d2c454a-6062-4090-b3ee-0845d5e6b321)
 
-### Contributions
-
-<p align="center">
-  <img height="150" width="150" src="./Assets/leftwing.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CodeMaster7000&theme=dark&background=000000"/>
-  <img height="150" width="150" src="./Assets/rightwing.webp">
-</p>
-
 ### ⚡ New and Noteworthy ⚡
 
 You're all up to date! Stay tuned for updates.
