@@ -17,7 +17,7 @@ You're all up to date! Stay tuned for updates.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a short while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
-- 🔭 I am currently working on Python, JavaScript and C Family projects to help beginner, intermediate, and early advanced programmers.
+- 🔭 I am currently working on Python and JavaScript projects to help intermediate, and early advanced programmers.
 - 🌱 I am currently researching ethical hacking.
 - 🤔 I am looking for help with blockchain technologies and OS development. 
 - 💬 Ask me about APIs, Python, C++ or JavaScript. I might be able to help you.
@@ -62,7 +62,7 @@ You're all up to date! Stay tuned for updates.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 
-### Software
+### Softwares
 
 <p>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -70,8 +70,7 @@ You're all up to date! Stay tuned for updates.
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
 	
-<details>
-	<summary><h3>Where can you follow me?</h3></summary>
+### Where can you follow me?
 
 - Follow me on Github at https://github.com/CodeMaster7000
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
