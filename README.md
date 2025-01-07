@@ -70,7 +70,8 @@ You're all up to date! Stay tuned for updates.
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
 	
-### Where can you follow me?
+<details>
+	<summary><h3>Where can you follow me?</h3></summary>
 
 - Follow me on Github at https://github.com/CodeMaster7000
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
