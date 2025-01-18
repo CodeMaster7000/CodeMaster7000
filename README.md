@@ -74,7 +74,6 @@ You're all up to date! Stay tuned for updates.
 
 - Follow me on Github at https://github.com/CodeMaster7000
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
-- Follow me on Google+ at https://plus.google.com/CodeMaster7000
 - Check out my Github open-source webpage at https://codemaster7000.github.io
 - Send me a game request and message me on Lichess at https://lichess.org/@/AdvaitAbh7000
 - Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
