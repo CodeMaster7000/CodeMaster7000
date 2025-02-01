@@ -70,8 +70,7 @@ You're all up to date! Stay tuned for updates.
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
 	
-<details>
-	<summary><h3>Where can you follow me?</h3></summary>
+### Where can you follow me?
 
 - Follow me on Github at https://github.com/CodeMaster7000
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
@@ -82,10 +81,8 @@ You're all up to date! Stay tuned for updates.
 - Check out my Google Developer's profile at https://developers.google.com/profile/u/CodeMaster7000
 - Check out my CodersRank profile at https://profile.codersrank.io/user/codemaster7000
 
-<div align="center">
-	
-[![](https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif)](#)
-
+<details>
+	<summary><h3>Where can you view this page?</h3></summary>
 <div align="center">
 
 <sup>Best viewed with:</sup><br />![Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
