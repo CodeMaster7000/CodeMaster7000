@@ -76,13 +76,12 @@ You're all up to date! Stay tuned for updates.
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
 - Check out my Github open-source webpage at https://codemaster7000.github.io
 - Send me a game request and message me on Lichess at https://lichess.org/@/AdvaitAbh7000
+- Send me a game request and message me on Chess.com at https://chess.com/member/Code-Master1234
 - Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
 - Follow me and like my posts on Adobe Behance at https://behance.net/CodeMaster7000
 - Check out my Google Developer's profile at https://developers.google.com/profile/u/CodeMaster7000
 - Check out my CodersRank profile at https://profile.codersrank.io/user/codemaster7000
 
-<details>
-	<summary><h3>Where can you view this page?</h3></summary>
 <div align="center">
 
 <sup>Best viewed with:</sup><br />![Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
