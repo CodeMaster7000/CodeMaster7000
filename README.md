@@ -18,7 +18,7 @@ You're all up to date! Stay tuned for updates.
 
 - 🎇 On December 8th 2021, I started my Github journey. I had been coding for a short while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on Python and JavaScript projects to help intermediate, and early advanced programmers.
-- 🌱 I am currently researching ethical hacking.
+- 🌱 I am currently researching ethical hacking and cryptography.
 - 🤔 I am looking for help with blockchain technologies and OS development. 
 - 💬 Ask me about APIs, Python, C++ or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github](https://github.com/CodeMaster7000).
