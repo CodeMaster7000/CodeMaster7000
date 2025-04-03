@@ -10,7 +10,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-Happy St Patrick's Day to all those celebrating! 🍀
+You're all caught up!
 
 ### About me @CodeMaster7000
 
