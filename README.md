@@ -73,9 +73,9 @@ You're all caught up!
 ### Where can you follow me?
 
 - Follow me on Github at https://github.com/CodeMaster7000
+- Follow me on LinkedIn at https://www.linkedin.com/in/advait-abhyankar-16845435b/
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
 - Check out my Github open-source webpage at https://codemaster7000.github.io
-- Send me a game request and message me on Lichess at https://lichess.org/@/AdvaitAbh7000
 - Send me a game request and message me on Chess.com at https://chess.com/member/Code-Master1234
 - Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
 - Follow me and like my posts on Adobe Behance at https://behance.net/CodeMaster7000
