@@ -10,7 +10,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-You're all caught up!
+No recent news. You're all caught up!
 
 ### About me @CodeMaster7000
 
