@@ -76,7 +76,7 @@ No recent news. You're all caught up!
 - Connect & follow me on LinkedIn at https://www.linkedin.com/in/advait-abhyankar-16845435b/
 - Subscribe to my YouTube channel at https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ
 - Check out my Github open-source webpage at https://codemaster7000.github.io
-- Send me a game request and message me on Lichess at https://lichess.org/@/Code-Master1234
+- Send me a game request and message me on Lichess at https://lichess.org/@/LarnacaPaphos
 - Check out my Github Gist profile at https://gist.github.com/CodeMaster7000
 - Follow me and like my posts on Adobe Behance at https://behance.net/CodeMaster7000
 - Check out my Google Developer's profile at https://developers.google.com/profile/u/CodeMaster7000
