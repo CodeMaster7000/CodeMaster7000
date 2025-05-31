@@ -23,7 +23,7 @@ No recent news. You're all caught up!
 - 💬 Ask me about APIs, Python, or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github](https://github.com/CodeMaster7000).
 - 😄 Pronouns: He/him
-- ⚡ Check out my Reading List in progress at [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e)!
+- ⚡ Check out my Reading List in progress on [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e).
 
 ### Achievements
 
