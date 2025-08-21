@@ -21,7 +21,7 @@ You're all caught up!
 - 🌱 I am currently researching AWS and cryptography.
 - 🤔 I am looking for help with developing Python modules and an OS. 
 - 💬 Ask me about APIs, Python, or JavaScript. I might be able to help you.
-- 📫 How to reach me: On [Github](https://github.com/CodeMaster7000).
+- 📫 How to reach me: On [Github](https://github.com/CodeMaster7000) and via email.
 - 😄 Pronouns: He/him
 - ⚡ Check out my Reading List in progress on [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e).
 
