@@ -10,7 +10,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-You're all caught up!
+DigitalOcean Hacktoberfest 2025 is live from 1st October to 31st October.
 
 ### About me @CodeMaster7000
 
