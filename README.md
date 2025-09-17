@@ -12,7 +12,7 @@
 
 DigitalOcean Hacktoberfest 2025 is live from 1st October to 31st October.
 
-### About me @CodeMaster7000
+### About me
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Keen+Python+and+JavaScript+developer;Full-stack+developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
 
