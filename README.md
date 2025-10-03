@@ -20,7 +20,7 @@ DigitalOcean Hacktoberfest 2025 is live from 1st October to 31st October! Follow
 - 🔭 I am currently working on Python and JavaScript projects to help intermediate and early advanced programmers.
 - 🌱 I am currently researching data science and cryptography.
 - 🤔 I am looking for help with developing Python modules and an OS. 
-- 💬 Ask me about APIs, Python, or JavaScript. I might be able to help you.
+- 💬 Ask me about AWS, Python, or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github](https://github.com/CodeMaster7000) and via email.
 - 😄 Pronouns: He/him
 - ⚡ Check out my Reading List in progress on [Medium](https://medium.com/@codemaster7000/list/ai-programming-and-tech-galore-cd381bb3c09e).
