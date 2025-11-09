@@ -10,7 +10,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-DigitalOcean Hacktoberfest 2025 is live from 1st October to 31st October! Follow my progress on my profile.
+You're all up to date!
 
 ### About me
 
