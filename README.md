@@ -10,7 +10,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-You're all up to date!
+[Advent of Code](https://adventofcode.com/) runs from 1st to 12th December 2025. Follow my journey on my profile!
 
 ### About me
 
