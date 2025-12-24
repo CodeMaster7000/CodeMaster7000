@@ -18,7 +18,7 @@ Merry Christmas and a Happy New Year to all those celebrating! 🎅🎄
 
 - 🎇 On December 8th 2021, I began my Github journey. I had been programming for a short while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on Python and JavaScript projects to help intermediate and early advanced programmers.
-- 🌱 I am currently researching data science and cryptography.
+- 🌱 I am currently researching data science and AI.
 - 🤔 I am looking for help with developing Python modules and an OS. 
 - 💬 Ask me about AWS, Python, or JavaScript. I might be able to help you.
 - 📫 How to reach me: On [Github](https://github.com/CodeMaster7000) and via email.
