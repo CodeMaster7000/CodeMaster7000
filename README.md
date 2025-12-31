@@ -10,7 +10,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-Merry Christmas and a Happy New Year to all those celebrating! 🎅🎄
+You're all up to date!
 
 ### About me
 
