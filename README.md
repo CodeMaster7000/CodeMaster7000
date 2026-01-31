@@ -10,7 +10,7 @@
 
 ### ⚡ New and Noteworthy ⚡
 
-You're all up to date!
+C++ mini projects are now underway.
 
 ### About me
 
