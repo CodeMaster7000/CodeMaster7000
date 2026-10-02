@@ -27,8 +27,6 @@ com).
 
 ### Achievements
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeMaster7000" alt="CodeMaster7000" /></a> </p>
-
 [![An image of @CodeMaster7000's Holopin badges](https://holopin.me/codemaster7000)](https://holopin.io/@codemaster7000)
 
 ### Developers' Quotes
