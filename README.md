@@ -88,5 +88,3 @@ com).
 </div>
 
 <div align="center">
-  
-<sup>You are visitor number:</sup><br />![Visitor Count](https://profile-counter.glitch.me/CodeMaster7000/count.svg)
